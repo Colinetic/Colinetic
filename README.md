@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Colin.</h1>
+<p align="left">I'm a passionate developer & designer from the United States.</p>
 
-<!--
-**Colinetic/Colinetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+    <img src="https://api.visitorbadge.io/api/visitors?path=Colinetic&label=profile%20views&labelColor=%23181414&countColor=%2364cb7a&style=flat"/>
+</div>
 
-Here are some ideas to get you started:
+<h3 align="left">What I Use:</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,discordjs,figma,lua,robloxstudio,unity,vscode"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">My Stats:</h2>
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Colinetic&hide_title=true&show_icons=true&theme=dark&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=Colinetic&theme=dark&hide_border=true&card_width=467&card_height=165"/>
+</div>
