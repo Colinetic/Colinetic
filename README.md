@@ -7,9 +7,7 @@
 
 <h3 align="left">What I Use:</h2>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,nodejs,discordjs,figma,lua,robloxstudio,unity,vscode"/>
-  </a>
 </p>
 
 <h3 align="left">My Stats:</h2>
